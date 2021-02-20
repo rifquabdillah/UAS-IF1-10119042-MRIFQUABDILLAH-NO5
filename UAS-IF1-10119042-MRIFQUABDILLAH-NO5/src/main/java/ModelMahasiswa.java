@@ -10,6 +10,7 @@
  * Nama  : Muhammad Rifqu Abdillah
  * Kelas : IF-1
  * NIM   : 10119042
+ * Soal  : No 5
  */
 public class ModelMahasiswa {
     String nama;
